@@ -3,6 +3,9 @@
 ## Introduction
 ![简介](https://github.com/ganji15/NumberRecognition/blob/master/introduction.png)
 
+## Results
+![result](https://github.com/ganji15/NumberRecognition/blob/master/result.jpg)
+
 ## 程序入口
 * npc_train.m
 训练样本数据(仅能用npc分类)
